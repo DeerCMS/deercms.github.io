@@ -1,0 +1,7 @@
+remote_theme: LeNPaul/Lagrange
+title: DeerCMS
+author:
+  name: tobiasroeder
+
+plugins:
+  - jekyll-remote-theme
