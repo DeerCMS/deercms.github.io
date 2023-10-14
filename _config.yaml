@@ -1,7 +1,8 @@
-remote_theme: LeNPaul/Lagrange
+remote_theme: longpdo/neumorphism
 title: DeerCMS
-author:
-  name: tobiasroeder
+description: The official homepage of DeerCMS.
+username: Tobias Röder
+github_username: tobiasroeder
 
 plugins:
   - jekyll-remote-theme
