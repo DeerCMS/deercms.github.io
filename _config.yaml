@@ -1,8 +1,13 @@
-remote_theme: longpdo/neumorphism
+remote_theme: vinitkumar/white-paper
 title: DeerCMS
 description: The official homepage of DeerCMS.
-username: Tobias Röder
-github_username: tobiasroeder
+
+logo: https://avatars.githubusercontent.com/u/147345514?v=4
+
+owner:
+  name: Tobias Röder
+  avatar: https://avatars.githubusercontent.com/u/24211899?v=4
+  github: https://github.com/tobiasroeder
 
 plugins:
   - jekyll-remote-theme
